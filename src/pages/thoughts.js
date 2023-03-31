@@ -32,7 +32,7 @@ export default function Home({posts:initialPosts}) {
       <Nav/>
         <div className={styles.page}>
           <h1>Welcome to Thoughtfull</h1>
-          <p>For those times when you're full of thoughts that you need to share.</p>
+          <p>For those times when you are full of thoughts that you need to share.</p>
         </div>
         <div className={styles.title}>
           <h2>Thoughtspage</h2>

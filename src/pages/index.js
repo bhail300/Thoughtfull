@@ -18,7 +18,7 @@ export default function Home({posts}) {
       <Nav/>
         <div className={styles.title}>
           <h1>Welcome to Thoughtfull</h1>
-          <p>For those times when you're full of thoughts that you need to share.</p>
+          <p>For those times when you are full of thoughts that you need to share.</p>
         </div>
         <div className={styles.page}>
           <h2>Homepage</h2>
