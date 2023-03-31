@@ -1,0 +1,51 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  margin: 1rem;
+  box-shadow: 1px 1px 15px #000;
+  border-radius: 100px;
+  background-color: aliceblue;
+}
+
+.input {
+  padding: 5px;
+  font-size: 15px;
+  border: 1px solid lightblue;
+  border-radius: 10px;
+}
+
+.textarea {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+  font-size: 15px;
+  border: 1px solid skyblue;
+  border-radius: 10px;
+}
+
+.button-complete,
+.button-delete,
+.button-edit {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  font-size: 30px;
+  border-radius: 50%;
+}
+
+.button_complete {
+  color: #ff6c6c;
+  margin-right: 10px;
+}
+
+.button_edit {
+  color: #e2d029;
+  margin-right: 10px;
+}
+
+.button_delete {
+  color: lightseagreen;
+}
+
